@@ -1,0 +1,20 @@
+export default [
+    {task: 'fazer Tarefa 01', done: false},
+    {task: 'fazer Tarefa 02', done: true},
+    {task: 'fazer Tarefa 03', done: false},
+    {task: 'fazer Tarefa 04', done: false},
+    {task: 'fazer Tarefa 05', done: true},
+    {task: 'fazer Tarefa 06', done: false},
+    {task: 'fazer Tarefa 07', done: false},
+    {task: 'fazer Tarefa 08', done: true},
+    {task: 'fazer Tarefa 09', done: false},
+    {task: 'fazer Tarefa 10', done: false},
+    {task: 'fazer Tarefa 11', done: true},
+    {task: 'fazer Tarefa 12', done: false},
+    {task: 'fazer Tarefa 13', done: false},
+    {task: 'fazer Tarefa 14', done: true},
+    {task: 'fazer Tarefa 15', done: false},
+    {task: 'fazer Tarefa 16', done: false},
+    {task: 'fazer Tarefa 17', done: true},
+    {task: 'fazer Tarefa 18', done: false}
+]
